@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1724316424 source:c:\users\dell\documents\code  c++\affdfdsdf\basic c++\sidraaa\watermalen\buritto.cpp
+	"Buritto.h"
+	<iostream>
+
+1724316304 c:\users\dell\documents\code  c++\affdfdsdf\basic c++\sidraaa\watermalen\buritto.h
+
+1724316413 source:c:\users\dell\documents\code  c++\affdfdsdf\basic c++\sidraaa\watermalen\main.cpp
+	<iostream>
+	"Buritto.h"
+
+1724316424 source:c:\users\dell\documents\code  c++\extern code\15-placing classes in diff. files\buritto.cpp
+	"Buritto.h"
+	<iostream>
+
+1724316304 c:\users\dell\documents\code  c++\extern code\15-placing classes in diff. files\buritto.h
+
+1724316413 source:c:\users\dell\documents\code  c++\extern code\15-placing classes in diff. files\main.cpp
+	<iostream>
+	"Buritto.h"
+

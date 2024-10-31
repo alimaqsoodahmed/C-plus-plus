@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1724317990 source:c:\users\dell\documents\code  c++\affdfdsdf\basic c++\sidraaa\indirection operator\sally.cpp
+	"Sally.h"
+	<iostream>
+
+1724317990 c:\users\dell\documents\code  c++\affdfdsdf\basic c++\sidraaa\indirection operator\sally.h
+
+1724318381 source:c:\users\dell\documents\code  c++\affdfdsdf\basic c++\sidraaa\indirection operator\main.cpp
+	<iostream>
+	"Sally.h"
+
+1725281722 source:c:\users\dell\documents\code  c++\extern code\41-indirection operator\main.cpp
+	<iostream>
+	"Sally.h"
+
+1724317990 c:\users\dell\documents\code  c++\extern code\41-indirection operator\sally.h
+
+1724317990 source:c:\users\dell\documents\code  c++\extern code\41-indirection operator\sally.cpp
+	"Sally.h"
+	<iostream>
+
